@@ -1,342 +1,6 @@
-<!doctype html>
-<html lang="zxx">
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-        <!-- Bootstrap Min CSS -->
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <!-- Animate Min CSS -->
-        <link rel="stylesheet" href="assets/css/animate.min.css">
-        <!-- FlatIcon CSS -->
-        <link rel="stylesheet" href="assets/css/flaticon.css">
-        <!-- Odometer Min CSS -->
-        <link rel="stylesheet" href="assets/css/odometer.min.css">
-        <!-- MeanMenu CSS -->
-        <link rel="stylesheet" href="assets/css/meanmenu.css">
-        <!-- Magnific Popup Min CSS -->
-        <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-        <!-- Nice Select Min CSS -->
-        <link rel="stylesheet" href="assets/css/nice-select.min.css">
-        <!-- Owl Carousel Min CSS -->
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <!-- Font Awesome Min CSS -->
-        <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-        <!-- Boxicons CSS -->
-        <link rel="stylesheet" href="assets/css/boxicons.min.css">
-        <!-- Style CSS -->
-        <link rel="stylesheet" href="assets/css/style.css">
-        <!-- Responsive CSS -->
-        <link rel="stylesheet" href="assets/css/responsive.css">
-
-        <title>Aronix - IT & SEO Company Startup HTML Template</title>
-
-        <link rel="icon" type="image/png" href="assets/img/favicon.png">
-    </head>
-
-    <body>
-        <!-- Preloader -->
-        <div class="preloader">
-            <div class="loader">
-                <div class="shadow"></div>
-                <div class="box"></div>
-            </div>
-        </div>
-        <!-- End Preloader -->
-
-        <!-- Start Navbar Area -->
-        <div class="navbar-area">
-            <div class="aronix-responsive-nav">
-                <div class="container">
-                    <div class="aronix-responsive-menu">
-                        <div class="logo">
-                            <a href="index.html">
-                                <script type="text/javascript" style="display:none">
-//<![CDATA[
-window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1800"};
-//]]>
-</script>
-<script type="text/javascript" src="../../../ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
-<img data-cfsrc="assets/img/logo.png" alt="logo" style="display:none;visibility:hidden;"><noscript><img src="assets/img/logo.png" alt="logo"></noscript>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="aronix-nav">
-                <div class="container">
-                    <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index.html">
-                            <img data-cfsrc="assets/img/logo.png" alt="logo" style="display:none;visibility:hidden;"><noscript><img src="assets/img/logo.png" alt="logo"></noscript>
-                        </a>
-
-                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                            <ul class="navbar-nav">
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link active">
-                                        Home <i class="fas fa-chevron-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="index.html" class="nav-link">Home One</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-2.html" class="nav-link">Home Two</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-3.html" class="nav-link active">Home Three</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-4.html" class="nav-link">Home Four</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-5.html" class="nav-link">
-                                                Home Five 
-                                                <span class="new">New</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-6.html" class="nav-link">
-                                                Home Six 
-                                                <span class="new">New</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-7.html" class="nav-link">
-                                                Home Seven 
-                                                <span class="new">New</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-8.html" class="nav-link">
-                                                Home Eight 
-                                                <span class="new">New</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-9.html" class="nav-link">
-                                                Home Nine 
-                                                <span class="new">New</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Pages <i class="fas fa-chevron-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="about.html" class="nav-link">About Us Style One</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="about2.html" class="nav-link">About Us Style Two</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="team.html" class="nav-link">Team Style One</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="team2.html" class="nav-link">Team Style Two</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="features.html" class="nav-link">Features</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="pricing.html" class="nav-link">Pricing</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="partner.html" class="nav-link">Partner</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="login.html" class="nav-link">Login</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="signup.html" class="nav-link">Signup</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="faq.html" class="nav-link">FAQ</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="error-404.html" class="nav-link">404 Error Page</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Services <i class="fas fa-chevron-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="services.html" class="nav-link">Services Style One</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="services2.html" class="nav-link">Services Style Two</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="services3.html" class="nav-link">Services Style Three</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="single-services.html" class="nav-link">Service Details</a>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Projects <i class="fas fa-chevron-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="projects.html" class="nav-link">Projects Style One</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="projects2.html" class="nav-link">Projects Style Two</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="projects3.html" class="nav-link">Projects Style Three</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="projects4.html" class="nav-link">Projects Style Four</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="single-projects.html" class="nav-link">Project Details</a>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Shop <i class="fas fa-chevron-down"></i>
-                                    </a>
-
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="shop.html" class="nav-link">Shop</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="single-product.html" class="nav-link">Single Products</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="cart.html" class="nav-link">Cart</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="checkout.html" class="nav-link">Checkout</a>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Blog <i class="fas fa-chevron-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="blog-1.html" class="nav-link">Blog Grid</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="blog-2.html" class="nav-link">Blog Right Sidebar</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="single-blog.html" class="nav-link">Blog Details</a>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a href="contact.html" class="nav-link">Contact</a>
-                                </li>
-                            </ul>
-
-                            <div class="others-options">
-                                <div class="cart-items">
-                                    <a href="cart.html">
-                                        <i class="fas fa-shopping-cart"></i>
-                                        <span>5</span>
-                                    </a>
-                                </div>
-
-                                <div class="option-item">
-                                    <i class="search-btn flaticon-search"></i>
-                                    <i class="close-btn flaticon-close"></i>
-                                    
-                                    <div class="search-overlay search-popup">
-                                        <div class='search-box'>
-                                            <form class="search-form">
-                                                <input class="search-input" name="search" placeholder="Search" type="text">
-
-                                                <button class="search-button" type="submit"><i class="fas fa-search"></i></button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="burger-menu">
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                </div>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </div>
-        <!-- End Navbar Area -->
-
-        <!-- Sidebar Modal -->
-        <div class="sidebar-modal">
-            <div class="sidebar-modal-inner">
-                <div class="sidebar-about-area">
-                    <div class="title">
-                        <h2>About Us</h2>
-                        <p>We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
-                    </div>
-                </div>
-
-                <div class="sidebar-instagram-feed">
-                    <h2>Instagram</h2>
-
-                    <ul>
-                        <li><a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/1.jpg" alt="image"></noscript></a></li>
-                        <li><a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/2.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/2.jpg" alt="image"></noscript></a></li>
-                        <li><a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/3.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/3.jpg" alt="image"></noscript></a></li>
-                        <li><a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/4.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/4.jpg" alt="image"></noscript></a></li>
-                        <li><a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/5.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/5.jpg" alt="image"></noscript></a></li>
-                        <li><a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/6.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/6.jpg" alt="image"></noscript></a></li>
-                        <li><a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/7.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/7.jpg" alt="image"></noscript></a></li>
-                        <li><a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/8.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/8.jpg" alt="image"></noscript></a></li>
-                    </ul>
-                </div>
-
-                <div class="sidebar-contact-area">
-                    <div class="contact-info">
-                        <div class="contact-info-content">
-                            <h2>
-                                <a href="tel:+0881306298615">+088 130 629 8615</a>
-                                <span>OR</span>
-                                <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#6203100d0c0b1a22050f030b0e4c010d0f"><span class="__cf_email__" data-cfemail="f9988b96979081b99e94989095d79a9694">[email&#160;protected]</span></a>
-                            </h2>
-    
-                            <ul class="social">
-                                <li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fab fa-youtube"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <span class="close-btn sidebar-modal-close-btn"><i class="flaticon-close"></i></span>
-            </div>
-        </div>
-        <!-- End Sidebar Modal -->
-
+<?php get_header();
+    $theme = get_stylesheet_directory_uri();
+?>
         <!-- Start Main Banner Area -->
         <div class="hero-banner banner-bg1">
             <div class="d-table">
@@ -357,9 +21,9 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
 
                             <div class="col-lg-6 col-md-12">
                                 <div class="hero-banner-image">
-                                    <img data-cfsrc="assets/img/banner-image/main.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/banner-image/main.png" alt="image"></noscript>
-                                    <img data-cfsrc="assets/img/banner-image/1.png" class="wow fadeInDown" data-wow-delay=".9s" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/banner-image/1.png" class="wow fadeInDown" data-wow-delay=".9s" alt="image"></noscript>
-                                    <img data-cfsrc="assets/img/banner-image/2.png" class="wow fadeInDown" data-wow-delay=".6s" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/banner-image/2.png" class="wow fadeInDown" data-wow-delay=".6s" alt="image"></noscript>
+                                    <img data-cfsrc="<?php echo $theme; ?>/assets/img/banner-image/main.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/banner-image/main.png" alt="image"></noscript>
+                                    <img data-cfsrc="<?php echo $theme; ?>/assets/img/banner-image/1.png" class="wow fadeInDown" data-wow-delay=".9s" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/banner-image/1.png" class="wow fadeInDown" data-wow-delay=".9s" alt="image"></noscript>
+                                    <img data-cfsrc="<?php echo $theme; ?>/assets/img/banner-image/2.png" class="wow fadeInDown" data-wow-delay=".6s" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/banner-image/2.png" class="wow fadeInDown" data-wow-delay=".6s" alt="image"></noscript>
                                 </div>
                             </div>
                         </div>
@@ -367,16 +31,16 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 </div>
             </div>
 
-            <div class="shape-img1"><img data-cfsrc="assets/img/shape/1.png" class="wow fadeInUp" data-wow-delay=".9s" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/1.png" class="wow fadeInUp" data-wow-delay=".9s" alt="image"></noscript></div>
-            <div class="shape-img2"><img src="assets/img/shape/2.svg" alt="image"></div>
-            <div class="shape-img3"><img src="assets/img/shape/3.svg" alt="image"></div>
-            <div class="shape-img4"><img data-cfsrc="assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/4.png" alt="image"></noscript></div>
-            <div class="shape-img5"><img data-cfsrc="assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/5.png" alt="image"></noscript></div>
-            <div class="shape-img6"><img data-cfsrc="assets/img/shape/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/6.png" alt="image"></noscript></div>
-            <div class="shape-img7"><img data-cfsrc="assets/img/shape/7.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/7.png" alt="image"></noscript></div>
-            <div class="shape-img8"><img data-cfsrc="assets/img/shape/8.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/8.png" alt="image"></noscript></div>
-            <div class="shape-img9"><img data-cfsrc="assets/img/shape/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/9.png" alt="image"></noscript></div>
-            <div class="shape-img10"><img data-cfsrc="assets/img/shape/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/10.png" alt="image"></noscript></div>
+            <div class="shape-img1"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/1.png" class="wow fadeInUp" data-wow-delay=".9s" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/1.png" class="wow fadeInUp" data-wow-delay=".9s" alt="image"></noscript></div>
+            <div class="shape-img2"><img src="<?php echo $theme; ?>/assets/img/shape/2.svg" alt="image"></div>
+            <div class="shape-img3"><img src="<?php echo $theme; ?>/assets/img/shape/3.svg" alt="image"></div>
+            <div class="shape-img4"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image"></noscript></div>
+            <div class="shape-img5"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image"></noscript></div>
+            <div class="shape-img6"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/6.png" alt="image"></noscript></div>
+            <div class="shape-img7"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/7.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/7.png" alt="image"></noscript></div>
+            <div class="shape-img8"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/8.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/8.png" alt="image"></noscript></div>
+            <div class="shape-img9"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/9.png" alt="image"></noscript></div>
+            <div class="shape-img10"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/10.png" alt="image"></noscript></div>
         </div>
         <!-- End Main Banner Area -->
 
@@ -438,7 +102,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="about-image">
-                            <img data-cfsrc="assets/img/about-img1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/about-img1.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/about-img1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/about-img1.png" alt="image"></noscript>
                         </div>
                     </div>
 
@@ -461,8 +125,8 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 </div>
             </div>
 
-            <div class="shape-img3"><img src="assets/img/shape/3.svg" alt="image"></div>
-            <div class="shape-img2"><img src="assets/img/shape/2.svg" alt="image"></div>
+            <div class="shape-img3"><img src="<?php echo $theme; ?>/assets/img/shape/3.svg" alt="image"></div>
+            <div class="shape-img2"><img src="<?php echo $theme; ?>/assets/img/shape/2.svg" alt="image"></div>
         </section>
         <!-- End About Area -->
 
@@ -581,7 +245,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
 
                     <div class="col-lg-6 col-md-12">
                         <div class="why-choose-image">
-                            <img data-cfsrc="assets/img/why-choose-img1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/why-choose-img1.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/why-choose-img1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/why-choose-img1.png" alt="image"></noscript>
                         </div>
                     </div>
                 </div>
@@ -641,7 +305,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
             <div class="container-fluid">
                 <div class="projects-slides owl-carousel owl-theme">
                     <div class="single-projects-box">
-                        <img data-cfsrc="assets/img/projects-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/projects-image/1.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/projects-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/projects-image/1.jpg" alt="image"></noscript>
 
                         <div class="projects-content">
                             <h3><a href="single-projects.html">Digital Marketing</a></h3>
@@ -649,14 +313,14 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                         </div>
 
                         <div class="plus-icon">
-                            <a href="assets/img/projects-image/1.jpg" class="popup-btn">
+                            <a href="<?php echo $theme; ?>/assets/img/projects-image/1.jpg" class="popup-btn">
                                 <span></span>
                             </a>
                         </div>
                     </div>
 
                     <div class="single-projects-box">
-                        <img data-cfsrc="assets/img/projects-image/2.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/projects-image/2.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/projects-image/2.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/projects-image/2.jpg" alt="image"></noscript>
 
                         <div class="projects-content">
                             <h3><a href="single-projects.html">Design & Development</a></h3>
@@ -664,14 +328,14 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                         </div>
 
                         <div class="plus-icon">
-                            <a href="assets/img/projects-image/2.jpg" class="popup-btn">
+                            <a href="<?php echo $theme; ?>/assets/img/projects-image/2.jpg" class="popup-btn">
                                 <span></span>
                             </a>
                         </div>
                     </div>
 
                     <div class="single-projects-box">
-                        <img data-cfsrc="assets/img/projects-image/3.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/projects-image/3.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/projects-image/3.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/projects-image/3.jpg" alt="image"></noscript>
 
                         <div class="projects-content">
                             <h3><a href="single-projects.html">Strategic Planing</a></h3>
@@ -679,14 +343,14 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                         </div>
 
                         <div class="plus-icon">
-                            <a href="assets/img/projects-image/3.jpg" class="popup-btn">
+                            <a href="<?php echo $theme; ?>/assets/img/projects-image/3.jpg" class="popup-btn">
                                 <span></span>
                             </a>
                         </div>
                     </div>
 
                     <div class="single-projects-box">
-                        <img data-cfsrc="assets/img/projects-image/4.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/projects-image/4.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/projects-image/4.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/projects-image/4.jpg" alt="image"></noscript>
 
                         <div class="projects-content">
                             <h3><a href="single-projects.html">SEO Consultancy</a></h3>
@@ -694,14 +358,14 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                         </div>
 
                         <div class="plus-icon">
-                            <a href="assets/img/projects-image/4.jpg" class="popup-btn">
+                            <a href="<?php echo $theme; ?>/assets/img/projects-image/4.jpg" class="popup-btn">
                                 <span></span>
                             </a>
                         </div>
                     </div>
 
                     <div class="single-projects-box">
-                        <img data-cfsrc="assets/img/projects-image/5.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/projects-image/5.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/projects-image/5.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/projects-image/5.jpg" alt="image"></noscript>
 
                         <div class="projects-content">
                             <h3><a href="single-projects.html">Competitor Analysis</a></h3>
@@ -709,14 +373,14 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                         </div>
 
                         <div class="plus-icon">
-                            <a href="assets/img/projects-image/5.jpg" class="popup-btn">
+                            <a href="<?php echo $theme; ?>/assets/img/projects-image/5.jpg" class="popup-btn">
                                 <span></span>
                             </a>
                         </div>
                     </div>
 
                     <div class="single-projects-box">
-                        <img data-cfsrc="assets/img/projects-image/6.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/projects-image/6.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/projects-image/6.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/projects-image/6.jpg" alt="image"></noscript>
 
                         <div class="projects-content">
                             <h3><a href="single-projects.html">Social Media Marketing</a></h3>
@@ -724,7 +388,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                         </div>
 
                         <div class="plus-icon">
-                            <a href="assets/img/projects-image/6.jpg" class="popup-btn">
+                            <a href="<?php echo $theme; ?>/assets/img/projects-image/6.jpg" class="popup-btn">
                                 <span></span>
                             </a>
                         </div>
@@ -797,7 +461,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
 
                                 <div class="overview-image">
                                     <div class="image">
-                                        <img data-cfsrc="assets/img/features-image/1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/features-image/1.png" alt="image"></noscript>
+                                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/features-image/1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/features-image/1.png" alt="image"></noscript>
                                     </div>
                                 </div>
                             </div>
@@ -807,7 +471,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                             <div class="features-overview">
                                 <div class="overview-image">
                                     <div class="image">
-                                        <img data-cfsrc="assets/img/features-image/2.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/features-image/2.png" alt="image"></noscript>
+                                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/features-image/2.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/features-image/2.png" alt="image"></noscript>
                                     </div>
                                 </div>
 
@@ -851,7 +515,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
 
                                 <div class="overview-image">
                                     <div class="image">
-                                        <img data-cfsrc="assets/img/features-image/3.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/features-image/3.png" alt="image"></noscript>
+                                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/features-image/3.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/features-image/3.png" alt="image"></noscript>
                                     </div>
                                 </div>
                             </div>
@@ -861,7 +525,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                             <div class="features-overview">
                                 <div class="overview-image">
                                     <div class="image">
-                                        <img data-cfsrc="assets/img/features-image/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/features-image/4.png" alt="image"></noscript>
+                                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/features-image/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/features-image/4.png" alt="image"></noscript>
                                     </div>
                                 </div>
                                 
@@ -905,7 +569,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
 
                                 <div class="overview-image">
                                     <div class="image">
-                                        <img data-cfsrc="assets/img/features-image/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/features-image/5.png" alt="image"></noscript>
+                                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/features-image/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/features-image/5.png" alt="image"></noscript>
                                     </div>
                                 </div>
                             </div>
@@ -915,7 +579,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                             <div class="features-overview">
                                 <div class="overview-image">
                                     <div class="image">
-                                        <img data-cfsrc="assets/img/features-image/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/features-image/6.png" alt="image"></noscript>
+                                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/features-image/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/features-image/6.png" alt="image"></noscript>
                                     </div>
                                 </div>
 
@@ -941,10 +605,10 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 </div>
             </div>
 
-            <div class="shape-img7"><img data-cfsrc="assets/img/shape/7.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/7.png" alt="image"></noscript></div>
-            <div class="shape-img2"><img src="assets/img/shape/2.svg" alt="image"></div>
-            <div class="shape-img3"><img src="assets/img/shape/3.svg" alt="image"></div>
-            <div class="shape-img4"><img data-cfsrc="assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/4.png" alt="image"></noscript></div>
+            <div class="shape-img7"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/7.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/7.png" alt="image"></noscript></div>
+            <div class="shape-img2"><img src="<?php echo $theme; ?>/assets/img/shape/2.svg" alt="image"></div>
+            <div class="shape-img3"><img src="<?php echo $theme; ?>/assets/img/shape/3.svg" alt="image"></div>
+            <div class="shape-img4"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image"></noscript></div>
         </section>
         <!-- End Features Area -->
 
@@ -960,7 +624,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-team-box">
                             <div class="image">
-                                <img data-cfsrc="assets/img/team-image/1.jpg" alt="team" style="display:none;visibility:hidden;"><noscript><img src="assets/img/team-image/1.jpg" alt="team"></noscript>
+                                <img data-cfsrc="<?php echo $theme; ?>/assets/img/team-image/1.jpg" alt="team" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/team-image/1.jpg" alt="team"></noscript>
 
                                 <div class="social">
                                     <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -979,7 +643,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-team-box">
                             <div class="image">
-                                <img data-cfsrc="assets/img/team-image/2.jpg" alt="team" style="display:none;visibility:hidden;"><noscript><img src="assets/img/team-image/2.jpg" alt="team"></noscript>
+                                <img data-cfsrc="<?php echo $theme; ?>/assets/img/team-image/2.jpg" alt="team" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/team-image/2.jpg" alt="team"></noscript>
 
                                 <div class="social">
                                     <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -998,7 +662,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
                         <div class="single-team-box">
                             <div class="image">
-                                <img data-cfsrc="assets/img/team-image/3.jpg" alt="team" style="display:none;visibility:hidden;"><noscript><img src="assets/img/team-image/3.jpg" alt="team"></noscript>
+                                <img data-cfsrc="<?php echo $theme; ?>/assets/img/team-image/3.jpg" alt="team" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/team-image/3.jpg" alt="team"></noscript>
 
                                 <div class="social">
                                     <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -1016,13 +680,13 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 </div>
             </div>
 
-            <div class="shape-img2"><img src="assets/img/shape/2.svg" alt="image"></div>
-            <div class="shape-img3"><img src="assets/img/shape/3.svg" alt="image"></div>
-            <div class="shape-img4"><img data-cfsrc="assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/4.png" alt="image"></noscript></div>
-            <div class="shape-img5"><img data-cfsrc="assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/5.png" alt="image"></noscript></div>
-            <div class="shape-img6"><img data-cfsrc="assets/img/shape/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/6.png" alt="image"></noscript></div>
-            <div class="shape-img9"><img data-cfsrc="assets/img/shape/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/9.png" alt="image"></noscript></div>
-            <div class="shape-img10"><img data-cfsrc="assets/img/shape/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/10.png" alt="image"></noscript></div>
+            <div class="shape-img2"><img src="<?php echo $theme; ?>/assets/img/shape/2.svg" alt="image"></div>
+            <div class="shape-img3"><img src="<?php echo $theme; ?>/assets/img/shape/3.svg" alt="image"></div>
+            <div class="shape-img4"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image"></noscript></div>
+            <div class="shape-img5"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image"></noscript></div>
+            <div class="shape-img6"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/6.png" alt="image"></noscript></div>
+            <div class="shape-img9"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/9.png" alt="image"></noscript></div>
+            <div class="shape-img10"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/10.png" alt="image"></noscript></div>
         </section>
         <!-- End Team Area -->
 
@@ -1064,7 +728,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <p>“We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.”</p>
 
                     <div class="client-info">
-                        <img data-cfsrc="assets/img/client-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/client-image/1.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/client-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/client-image/1.jpg" alt="image"></noscript>
 
                         <h3>Jason Roy</h3>
                         <span>Manager</span>
@@ -1075,7 +739,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <p>“We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.”</p>
 
                     <div class="client-info">
-                        <img data-cfsrc="assets/img/client-image/2.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/client-image/2.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/client-image/2.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/client-image/2.jpg" alt="image"></noscript>
 
                         <h3>James Anderson</h3>
                         <span>Web Developer</span>
@@ -1086,7 +750,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <p>“We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.”</p>
 
                     <div class="client-info">
-                        <img data-cfsrc="assets/img/client-image/3.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/client-image/3.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/client-image/3.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/client-image/3.jpg" alt="image"></noscript>
 
                         <h3>Sarah Taylor</h3>
                         <span>Designer</span>
@@ -1097,7 +761,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <p>“We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.”</p>
 
                     <div class="client-info">
-                        <img data-cfsrc="assets/img/client-image/4.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/client-image/4.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/client-image/4.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/client-image/4.jpg" alt="image"></noscript>
 
                         <h3>Steven Smith</h3>
                         <span>Manager</span>
@@ -1108,7 +772,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <p>“We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.”</p>
 
                     <div class="client-info">
-                        <img data-cfsrc="assets/img/client-image/5.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/client-image/5.jpg" alt="image"></noscript>
+                        <img data-cfsrc="<?php echo $theme; ?>/assets/img/client-image/5.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/client-image/5.jpg" alt="image"></noscript>
 
                         <h3>Tom Nessham</h3>
                         <span>EnvyTheme</span>
@@ -1208,13 +872,13 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 </div>
             </div>
 
-            <div class="shape-img2"><img src="assets/img/shape/2.svg" alt="image"></div>
-            <div class="shape-img3"><img src="assets/img/shape/3.svg" alt="image"></div>
-            <div class="shape-img4"><img data-cfsrc="assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/4.png" alt="image"></noscript></div>
-            <div class="shape-img5"><img data-cfsrc="assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/5.png" alt="image"></noscript></div>
-            <div class="shape-img6"><img data-cfsrc="assets/img/shape/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/6.png" alt="image"></noscript></div>
-            <div class="shape-img9"><img data-cfsrc="assets/img/shape/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/9.png" alt="image"></noscript></div>
-            <div class="shape-img10"><img data-cfsrc="assets/img/shape/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/10.png" alt="image"></noscript></div>
+            <div class="shape-img2"><img src="<?php echo $theme; ?>/assets/img/shape/2.svg" alt="image"></div>
+            <div class="shape-img3"><img src="<?php echo $theme; ?>/assets/img/shape/3.svg" alt="image"></div>
+            <div class="shape-img4"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image"></noscript></div>
+            <div class="shape-img5"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image"></noscript></div>
+            <div class="shape-img6"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/6.png" alt="image"></noscript></div>
+            <div class="shape-img9"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/9.png" alt="image"></noscript></div>
+            <div class="shape-img10"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/10.png" alt="image"></noscript></div>
         </section>
         <!-- End Pricing Area -->
 
@@ -1229,80 +893,80 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 <div class="row align-items-center">
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/1.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/1.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/1.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/1.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/1.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/2.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/2.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/2.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/2.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/2.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/2.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/2.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/2.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/3.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/3.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/3.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/3.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/3.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/3.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/3.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/3.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/4.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/4.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/4.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/4.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/5.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/5.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/5.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/5.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/6.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/6.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/6.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/6.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/7.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/7.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/7.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/7.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/7.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/7.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/7.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/7.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/8.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/8.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/8.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/8.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/8.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/8.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/8.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/8.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/9.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/9.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/9.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/9.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/9.png" alt="image"></noscript>
                         </a>
                     </div>
 
                     <div class="single-partner-item">
                         <a href="#">
-                            <img data-cfsrc="assets/img/partner-image/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/10.png" alt="image"></noscript>
-                            <img data-cfsrc="assets/img/partner-image/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/partner-image/10.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/10.png" alt="image"></noscript>
+                            <img data-cfsrc="<?php echo $theme; ?>/assets/img/partner-image/10.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/partner-image/10.png" alt="image"></noscript>
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="shape-img2"><img src="assets/img/shape/2.svg" alt="image"></div>
-            <div class="shape-img3"><img src="assets/img/shape/3.svg" alt="image"></div>
-            <div class="shape-img4"><img data-cfsrc="assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/4.png" alt="image"></noscript></div>
-            <div class="shape-img5"><img data-cfsrc="assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/5.png" alt="image"></noscript></div>
+            <div class="shape-img2"><img src="<?php echo $theme; ?>/assets/img/shape/2.svg" alt="image"></div>
+            <div class="shape-img3"><img src="<?php echo $theme; ?>/assets/img/shape/3.svg" alt="image"></div>
+            <div class="shape-img4"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image"></noscript></div>
+            <div class="shape-img5"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image"></noscript></div>
         </section>
         <!-- End Partner Area -->
 
@@ -1318,7 +982,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post">
                             <div class="post-image">
-                                <a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/1.jpg" alt="image"></noscript></a>
+                                <a href="single-blog.html"><img data-cfsrc="<?php echo $theme; ?>/assets/img/blog-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/blog-image/1.jpg" alt="image"></noscript></a>
                             </div>
 
                             <div class="post-content">
@@ -1340,7 +1004,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post">
                             <div class="post-image">
-                                <a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/2.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/2.jpg" alt="image"></noscript></a>
+                                <a href="single-blog.html"><img data-cfsrc="<?php echo $theme; ?>/assets/img/blog-image/2.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/blog-image/2.jpg" alt="image"></noscript></a>
                             </div>
 
                             <div class="post-content">
@@ -1362,7 +1026,7 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                     <div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
                         <div class="single-blog-post">
                             <div class="post-image">
-                                <a href="single-blog.html"><img data-cfsrc="assets/img/blog-image/3.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/blog-image/3.jpg" alt="image"></noscript></a>
+                                <a href="single-blog.html"><img data-cfsrc="<?php echo $theme; ?>/assets/img/blog-image/3.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/blog-image/3.jpg" alt="image"></noscript></a>
                             </div>
 
                             <div class="post-content">
@@ -1383,8 +1047,8 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 </div>
             </div>
 
-            <div class="shape-img2"><img src="assets/img/shape/2.svg" alt="image"></div>
-            <div class="shape-img3"><img src="assets/img/shape/3.svg" alt="image"></div>
+            <div class="shape-img2"><img src="<?php echo $theme; ?>/assets/img/shape/2.svg" alt="image"></div>
+            <div class="shape-img3"><img src="<?php echo $theme; ?>/assets/img/shape/3.svg" alt="image"></div>
         </section>
         <!-- End Blog Area -->
 
@@ -1406,162 +1070,11 @@ window.__mirage2 = {petok:"0c27546c5b5c20ff7906ca7a538320e9f67fe812-1648728050-1
                 </div>
             </div>
 
-            <div class="shape-img2"><img src="assets/img/shape/2.svg" alt="image"></div>
-            <div class="shape-img3"><img src="assets/img/shape/3.svg" alt="image"></div>
-            <div class="shape-img4"><img data-cfsrc="assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/4.png" alt="image"></noscript></div>
-            <div class="shape-img5"><img data-cfsrc="assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/5.png" alt="image"></noscript></div>
-            <div class="shape-img6"><img data-cfsrc="assets/img/shape/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/shape/6.png" alt="image"></noscript></div>
+            <div class="shape-img2"><img src="<?php echo $theme; ?>/assets/img/shape/2.svg" alt="image"></div>
+            <div class="shape-img3"><img src="<?php echo $theme; ?>/assets/img/shape/3.svg" alt="image"></div>
+            <div class="shape-img4"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/4.png" alt="image"></noscript></div>
+            <div class="shape-img5"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/5.png" alt="image"></noscript></div>
+            <div class="shape-img6"><img data-cfsrc="<?php echo $theme; ?>/assets/img/shape/6.png" alt="image" style="display:none;visibility:hidden;"><noscript><img src="<?php echo $theme; ?>/assets/img/shape/6.png" alt="image"></noscript></div>
         </section>
         <!-- End Subscribe Area -->
-
-        <!-- Start Footer Area -->
-        <section class="footer-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-footer-widget">
-                            <h3>Contact Info</h3>
-
-                            <ul class="footer-contact-info">
-                                <li>
-                                    <i class="flaticon-phone-call"></i>
-                                    <span>Mon to Fri : 10:00AM - 06:00PM</span>
-                                    <a href="tel:1235421457852">+123 54214 578 52</a>
-                                </li>
-                                <li>
-                                    <i class="flaticon-email"></i>
-                                    <span>Do You Have a Question?</span>
-                                    <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#57362538393e2f17303a363e3b7934383a"><span class="__cf_email__" data-cfemail="8aebf8e5e4e3f2caede7ebe3e6a4e9e5e7">[email&#160;protected]</span></a>
-                                </li>
-                                <li>
-                                    <i class="flaticon-social-media"></i>
-                                    <span>Socials Network</span>
-
-                                    <ul class="social">
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-footer-widget pl-5">
-                            <h3>Quick Links</h3>
-
-                            <ul class="footer-quick-links">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="blog-1.html">Blog</a></li>
-                                <li><a href="contact.html">Contact</a></li>
-                                <li><a href="projects.html">Agency</a></li>
-                                <li><a href="services.html">Digital</a></li>
-                                <li><a href="contact.html">Support</a></li>
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="projects.html">Agency</a></li>
-                                <li><a href="services.html">Digital</a></li>
-                                <li><a href="contact.html">Support</a></li>
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="services.html">Digital</a></li>
-                                <li><a href="contact.html">Support</a></li>
-                                <li><a href="services2.html">Marketing</a></li>
-                                <li><a href="projects2.html">Consultancy</a></li>
-                                <li><a href="services.html">Analysis</a></li>
-                                <li><a href="services.html">Development</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
-                        <div class="single-footer-widget pl-5">
-                            <h3>Instagram</h3>
-
-                            <ul class="footer-instagram-post">
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/1.jpg" alt="image"></noscript>
-                                </a></li>
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/2.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/2.jpg" alt="image"></noscript>
-                                </a></li>
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/3.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/3.jpg" alt="image"></noscript>
-                                </a></li>
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/4.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/4.jpg" alt="image"></noscript>
-                                </a></li>
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/5.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/5.jpg" alt="image"></noscript>
-                                </a></li>
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/6.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/6.jpg" alt="image"></noscript>
-                                </a></li>
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/7.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/7.jpg" alt="image"></noscript>
-                                </a></li>
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/8.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/8.jpg" alt="image"></noscript>
-                                </a></li>
-                                <li><a href="single-blog.html">
-                                    <img data-cfsrc="assets/img/instagram-image/1.jpg" alt="image" style="display:none;visibility:hidden;"><noscript><img src="assets/img/instagram-image/1.jpg" alt="image"></noscript>
-                                </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="copyright-area">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 col-sm-6 col-md-6">
-                            <p>Copyright @ 2021 Aronix. All rights reserved <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>
-                        </div>
-
-                        <div class="col-lg-6 col-sm-6 col-md-6">
-                            <ul>
-                                <li><a href="contact.html">Terms & Conditions</a></li>
-                                <li><a href="contact.html">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Footer Area -->
-        
-        <div class="go-top"><i class="fas fa-chevron-up"></i></div>
-
-        <!-- jQuery Min JS -->
-        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
-        <!-- Popper Min JS -->
-        <script src="assets/js/popper.min.js"></script>
-        <!-- Bootstrap Min JS -->
-        <script src="assets/js/bootstrap.min.js"></script>
-        <!-- MeanMenu JS  -->
-        <script src="assets/js/jquery.meanmenu.js"></script>
-        <!-- Appear Min JS -->
-        <script src="assets/js/jquery.appear.min.js"></script>
-        <!-- Odometer Min JS -->
-        <script src="assets/js/odometer.min.js"></script>
-        <!-- Owl Carousel Min JS -->
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <!-- Magnific Popup Min JS -->
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>
-        <!-- Parallax Min JS -->
-        <script src="assets/js/parallax.min.js"></script>
-        <!-- Nice Select Min JS -->
-        <script src="assets/js/jquery.nice-select.min.js"></script>
-        <!-- WOW Min JS -->
-        <script src="assets/js/wow.min.js"></script>
-        <!-- AjaxChimp Min JS -->
-        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
-        <!-- Form Validator Min JS -->
-        <script src="assets/js/form-validator.min.js"></script>
-        <!-- Contact Form Min JS -->
-        <script src="assets/js/contact-form-script.js"></script>
-        <!-- Main JS -->
-        <script src="assets/js/main.js"></script>
-    </body>
-</html>
+<?php get_footer(); ?>
