@@ -1,5 +1,7 @@
 <?php get_header();
     $theme = get_stylesheet_directory_uri();
+
+    echo "this is test";
 ?>
         <!-- Start Main Banner Area -->
         <div class="hero-banner banner-bg1">
